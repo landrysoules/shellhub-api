@@ -1,0 +1,9 @@
+/home/landry/.rvm/rubies/ruby-2.2.1/bin/ruby -r ./siteconf20150508-9316-96oa7w.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Rien à faire pour « all ».
+
+make "DESTDIR=" install
